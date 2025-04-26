@@ -1,0 +1,31 @@
+.post-detail-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .post-image {
+    width: 100%;
+    max-height: 500px;
+    object-fit: contain;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+  }
+  
+  .post-content {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+    margin: 2rem 0;
+    white-space: pre-wrap;
+  }
+  
+  .post-meta {
+    display: flex;
+    gap: 1rem;
+    color: #666;
+    margin-bottom: 1rem;
+  }

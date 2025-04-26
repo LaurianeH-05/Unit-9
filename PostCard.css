@@ -1,0 +1,12 @@
+.post-type-badge {
+    background: #e0e0e0;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+  }
+  
+  .post-type-badge[data-type="question"] { background: #fff3cd; color: #856404; }
+  .post-type-badge[data-type="opinion"] { background: #d4edda; color: #155724; }
+  .post-type-badge[data-type="discussion"] { background: #d1ecf1; color: #0c5460; }
