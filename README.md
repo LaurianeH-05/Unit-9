@@ -2,44 +2,9 @@
 
 Submitted by: **Lauriane Houndjahoue**
 
-This web app: HobbyHub: Community Forum App
-A full-stack forum platform where users can:
+This web app:A React-based forum app for sharing hobbies. Users create posts (text/images), comment, upvote, and manage content. Features sorting, searching, and pseudo-auth. Built with Supabase backend.
 
-Create & Share Posts
-
-Post titles, text content, images (URLs/direct uploads)
-
-Categorize as Discussions/Questions/Opinions
-
-Engage with Content
-
-Upvote popular posts (social media-style 👍)
-
-Comment on posts for discussions
-
-Organize & Discover
-
-Sort posts by date/upvotes
-
-Search by title
-
-Filter by post type
-
-Manage Content
-
-Edit/delete your own posts
-
-Pseudo-authentication via user IDs
-
-Tech Stack:
-
-Frontend: React + React Router
-
-Backend: Supabase (Database/Storage)
-
-Styling: Custom CSS
-
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
